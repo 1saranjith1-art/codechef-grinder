@@ -631,7 +631,11 @@
     "MORNINGRUN",
     "CHFCLASS",
     "ENDSORTED",
-    "MIXINGLIQ"
+    "MIXINGLIQ",
+    "PR0BLEM",
+    "DIVTHREE",
+    "PIZZAC",
+    "BOOKPACK"
   ],
   "history": [
     {
