@@ -639,7 +639,13 @@
     "CRDGAME3",
     "PENALTY",
     "POSSROLL",
-    "XYZ343"
+    "XYZ343",
+    "INSTDUM",
+    "NOWINNER",
+    "ADD12GAME",
+    "P2209",
+    "XLSL",
+    "LAYERCAKE"
   ],
   "history": [
     {
