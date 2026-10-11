@@ -645,7 +645,13 @@
     "ADD12GAME",
     "P2209",
     "XLSL",
-    "LAYERCAKE"
+    "LAYERCAKE",
+    "WHOMAKESP1",
+    "BID",
+    "DECDISC",
+    "URCALC",
+    "MIRJMP",
+    "BUYLAMP"
   ],
   "history": [
     {
