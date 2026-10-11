@@ -626,7 +626,12 @@
     "BOLT",
     "TWORANGES",
     "STICKS",
-    "PROBDIFF"
+    "PROBDIFF",
+    "PROFIT",
+    "MORNINGRUN",
+    "CHFCLASS",
+    "ENDSORTED",
+    "MIXINGLIQ"
   ],
   "history": [
     {
