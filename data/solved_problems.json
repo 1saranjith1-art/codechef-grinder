@@ -661,7 +661,12 @@
     "TWTCLOSE",
     "CHEFTRANS",
     "FBMATCH",
-    "PRDEXC"
+    "PRDEXC",
+    "QUEENATTACK",
+    "BUYTICK",
+    "COMP4",
+    "CHEGLOVE",
+    "ENTERTAIN"
   ],
   "history": [
     {
