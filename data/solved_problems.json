@@ -651,7 +651,12 @@
     "DECDISC",
     "URCALC",
     "MIRJMP",
-    "BUYLAMP"
+    "BUYLAMP",
+    "WFWIN",
+    "CRICRANK",
+    "SHUFFLIN",
+    "JOINING",
+    "MANCODE"
   ],
   "history": [
     {
