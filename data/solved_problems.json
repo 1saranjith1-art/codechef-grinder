@@ -656,7 +656,12 @@
     "CRICRANK",
     "SHUFFLIN",
     "JOINING",
-    "MANCODE"
+    "MANCODE",
+    "GRIDBL",
+    "TWTCLOSE",
+    "CHEFTRANS",
+    "FBMATCH",
+    "PRDEXC"
   ],
   "history": [
     {
