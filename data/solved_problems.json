@@ -1,5 +1,5 @@
 {
-  "total_solved": 453,
+  "total_solved": 458,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -453,7 +453,12 @@
     "MAKEMONEY",
     "FRUITS",
     "AGENTCHEF",
-    "CHEFSTEP"
+    "CHEFSTEP",
+    "QBGI",
+    "BURGERS2",
+    "PSEUDOSORT",
+    "BUSROW",
+    "BOTTOM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3846,6 +3851,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 07:52:08"
+    },
+    {
+      "code": "QBGI",
+      "name": "Bar Queue",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:12:16"
+    },
+    {
+      "code": "BURGERS2",
+      "name": "Hungry Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:13:50"
+    },
+    {
+      "code": "PSEUDOSORT",
+      "name": "Pseudo Sorted Array",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-13 12:15:26"
+    },
+    {
+      "code": "BUSROW",
+      "name": "Bus Rows",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:16:41"
+    },
+    {
+      "code": "BOTTOM",
+      "name": "Guess the bottom face",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:17:50"
     }
   ]
 }
