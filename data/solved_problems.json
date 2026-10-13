@@ -1,5 +1,5 @@
 {
-  "total_solved": 449,
+  "total_solved": 453,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -449,7 +449,11 @@
     "VAL142",
     "SUNDAY",
     "BUYPLSE",
-    "BIG"
+    "BIG",
+    "MAKEMONEY",
+    "FRUITS",
+    "AGENTCHEF",
+    "CHEFSTEP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3814,6 +3818,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 21:31:44"
+    },
+    {
+      "code": "MAKEMONEY",
+      "name": "Make Money",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 07:47:26"
+    },
+    {
+      "code": "FRUITS",
+      "name": "Chef and Fruits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 07:49:20"
+    },
+    {
+      "code": "AGENTCHEF",
+      "name": "Selling Insurance",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 07:50:37"
+    },
+    {
+      "code": "CHEFSTEP",
+      "name": "Chef and Steps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 07:52:08"
     }
   ]
 }
