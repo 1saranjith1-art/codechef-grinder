@@ -1,5 +1,5 @@
 {
-  "total_solved": 477,
+  "total_solved": 483,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -477,7 +477,13 @@
     "THREEBOX",
     "P2169",
     "BLUEBLACK",
-    "BOP3"
+    "BOP3",
+    "THREEFR",
+    "TEKKEN",
+    "STKSTR",
+    "MAKENZERO",
+    "EOEO",
+    "LARGESTK343"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4040,6 +4046,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 18:15:20"
+    },
+    {
+      "code": "THREEFR",
+      "name": "Three Friends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:00:18"
+    },
+    {
+      "code": "TEKKEN",
+      "name": "Tekken",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:01:24"
+    },
+    {
+      "code": "STKSTR",
+      "name": "Streak Star",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:03:07"
+    },
+    {
+      "code": "MAKENZERO",
+      "name": "Make N Zero",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:03:56"
+    },
+    {
+      "code": "EOEO",
+      "name": "The Tom and Jerry Game!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:05:37"
+    },
+    {
+      "code": "LARGESTK343",
+      "name": "Largest K",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:06:55"
     }
   ]
 }
