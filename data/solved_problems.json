@@ -1,5 +1,5 @@
 {
-  "total_solved": 475,
+  "total_solved": 477,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -475,7 +475,9 @@
     "SHARING",
     "CNTODDEVEN",
     "THREEBOX",
-    "P2169"
+    "P2169",
+    "BLUEBLACK",
+    "BOP3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4024,6 +4026,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 14:40:18"
+    },
+    {
+      "code": "BLUEBLACK",
+      "name": "Blue and Black Pens",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-14 18:13:19"
+    },
+    {
+      "code": "BOP3",
+      "name": "Min And Operations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:15:20"
     }
   ]
 }
