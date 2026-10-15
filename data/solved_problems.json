@@ -1,5 +1,5 @@
 {
-  "total_solved": 483,
+  "total_solved": 489,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -483,7 +483,13 @@
     "STKSTR",
     "MAKENZERO",
     "EOEO",
-    "LARGESTK343"
+    "LARGESTK343",
+    "CHFINTRO",
+    "CABRIDE",
+    "CHEFSUM",
+    "FAIRELCT",
+    "SALARY",
+    "WHICHDIV"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4088,6 +4094,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 21:06:55"
+    },
+    {
+      "code": "CHFINTRO",
+      "name": "Chef and Interactive Contests",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:28:00"
+    },
+    {
+      "code": "CABRIDE",
+      "name": "Cab Rides",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:28:56"
+    },
+    {
+      "code": "CHEFSUM",
+      "name": "Little Chef and Sums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:30:26"
+    },
+    {
+      "code": "FAIRELCT",
+      "name": "Fair Elections",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:32:05"
+    },
+    {
+      "code": "SALARY",
+      "name": "The Minimum Number Of Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:33:58"
+    },
+    {
+      "code": "WHICHDIV",
+      "name": "Which Division",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:35:03"
     }
   ]
 }
