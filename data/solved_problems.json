@@ -1,5 +1,5 @@
 {
-  "total_solved": 489,
+  "total_solved": 495,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -489,7 +489,13 @@
     "CHEFSUM",
     "FAIRELCT",
     "SALARY",
-    "WHICHDIV"
+    "WHICHDIV",
+    "CODETOWN",
+    "SUNNYDAY",
+    "TENPACKETS",
+    "MAXSLAM",
+    "LKDNGOLF",
+    "BUSSEAT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4136,6 +4142,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 09:35:03"
+    },
+    {
+      "code": "CODETOWN",
+      "name": "Reach Codetown",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:06:52"
+    },
+    {
+      "code": "SUNNYDAY",
+      "name": "Sunny Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:07:43"
+    },
+    {
+      "code": "TENPACKETS",
+      "name": "Buy Ten Packets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:08:54"
+    },
+    {
+      "code": "MAXSLAM",
+      "name": "Maximum Slams",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-15 14:10:01"
+    },
+    {
+      "code": "LKDNGOLF",
+      "name": "Golf",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:11:15"
+    },
+    {
+      "code": "BUSSEAT",
+      "name": "Bus Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:12:12"
     }
   ]
 }
