@@ -1,5 +1,5 @@
 {
-  "total_solved": 503,
+  "total_solved": 509,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -503,7 +503,13 @@
     "MRSWAP",
     "DBDISC",
     "EID",
-    "HCAGMAM1"
+    "HCAGMAM1",
+    "HATTRICK",
+    "MXON",
+    "GOODSUB7",
+    "SEATING7",
+    "EQSUM",
+    "BRLADDER"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4248,6 +4254,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 20:36:01"
+    },
+    {
+      "code": "HATTRICK",
+      "name": "Hattrick",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-16 09:19:20"
+    },
+    {
+      "code": "MXON",
+      "name": "Maximum Ones",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:20:34"
+    },
+    {
+      "code": "GOODSUB7",
+      "name": "Good Subsequence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:21:54"
+    },
+    {
+      "code": "SEATING7",
+      "name": "Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:22:44"
+    },
+    {
+      "code": "EQSUM",
+      "name": "Equal Difference",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:24:13"
+    },
+    {
+      "code": "BRLADDER",
+      "name": "Bear and Ladder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:25:33"
     }
   ]
 }
