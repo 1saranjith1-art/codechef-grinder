@@ -1,5 +1,5 @@
 {
-  "total_solved": 509,
+  "total_solved": 513,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -509,7 +509,11 @@
     "GOODSUB7",
     "SEATING7",
     "EQSUM",
-    "BRLADDER"
+    "BRLADDER",
+    "CHOCOCHEF",
+    "WRAPGIFTS",
+    "SNAPE",
+    "ADDPOS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -743,7 +747,8 @@
     "SAMESAME",
     "ANUUND",
     "ARYAGRID",
-    "FLOWERBUY"
+    "FLOWERBUY",
+    "CHOCEAT"
   ],
   "history": [
     {
@@ -4305,6 +4310,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 09:25:33"
+    },
+    {
+      "code": "CHOCOCHEF",
+      "name": "Chocolate Distribution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:09:13"
+    },
+    {
+      "code": "WRAPGIFTS",
+      "name": "Christmas Gifts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:13:00"
+    },
+    {
+      "code": "SNAPE",
+      "name": "Snape and Ladder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:15:38"
+    },
+    {
+      "code": "ADDPOS",
+      "name": "Add to make Positive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:17:20"
     }
   ]
 }
