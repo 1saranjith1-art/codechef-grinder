@@ -738,7 +738,12 @@
     "DRAWCH",
     "CHANGEONE7",
     "BLNDOR",
-    "GROUPASSGN"
+    "GROUPASSGN",
+    "TYPWRL",
+    "SAMESAME",
+    "ANUUND",
+    "ARYAGRID",
+    "FLOWERBUY"
   ],
   "history": [
     {
