@@ -1,5 +1,5 @@
 {
-  "total_solved": 518,
+  "total_solved": 523,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -518,7 +518,12 @@
     "CCHEAVEN",
     "DONUTSELL",
     "GEMBUND",
-    "FARFROMO"
+    "FARFROMO",
+    "SMARTER",
+    "PERMUTATION",
+    "TRUTHLIE",
+    "VOTERS",
+    "MAXTRI"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -753,7 +758,8 @@
     "ANUUND",
     "ARYAGRID",
     "FLOWERBUY",
-    "CHOCEAT"
+    "CHOCEAT",
+    "EXPSTP"
   ],
   "history": [
     {
@@ -4378,6 +4384,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 08:56:36"
+    },
+    {
+      "code": "SMARTER",
+      "name": "Work Smarter, Not Harder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:54:49"
+    },
+    {
+      "code": "PERMUTATION",
+      "name": "Convert to permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:56:37"
+    },
+    {
+      "code": "TRUTHLIE",
+      "name": "Truth Teller And Liars 101",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:57:56"
+    },
+    {
+      "code": "VOTERS",
+      "name": "Discrepancies in the Voters List",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:59:31"
+    },
+    {
+      "code": "MAXTRI",
+      "name": "Max Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 13:00:46"
     }
   ]
 }
