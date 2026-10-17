@@ -1,5 +1,5 @@
 {
-  "total_solved": 523,
+  "total_solved": 527,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -523,7 +523,11 @@
     "PERMUTATION",
     "TRUTHLIE",
     "VOTERS",
-    "MAXTRI"
+    "MAXTRI",
+    "CHESSWIN",
+    "FIZZBUZZ23_2",
+    "CFMM",
+    "SC31"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4419,6 +4423,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 13:00:46"
+    },
+    {
+      "code": "CHESSWIN",
+      "name": "Chess Win",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:40:54"
+    },
+    {
+      "code": "FIZZBUZZ23_2",
+      "name": "Survival Time",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:42:49"
+    },
+    {
+      "code": "CFMM",
+      "name": "Making a Meal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:44:08"
+    },
+    {
+      "code": "SC31",
+      "name": "Weapon Value",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:46:07"
     }
   ]
 }
