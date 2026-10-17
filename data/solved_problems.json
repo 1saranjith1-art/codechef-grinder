@@ -1,5 +1,5 @@
 {
-  "total_solved": 513,
+  "total_solved": 518,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -513,7 +513,12 @@
     "CHOCOCHEF",
     "WRAPGIFTS",
     "SNAPE",
-    "ADDPOS"
+    "ADDPOS",
+    "MERRYXMAS",
+    "CCHEAVEN",
+    "DONUTSELL",
+    "GEMBUND",
+    "FARFROMO"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4338,6 +4343,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 20:17:20"
+    },
+    {
+      "code": "MERRYXMAS",
+      "name": "Merry Christmas!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:50:23"
+    },
+    {
+      "code": "CCHEAVEN",
+      "name": "Chef in Heaven ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:52:23"
+    },
+    {
+      "code": "DONUTSELL",
+      "name": "Selling Donuts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:54:03"
+    },
+    {
+      "code": "GEMBUND",
+      "name": "Gem Bundles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:55:32"
+    },
+    {
+      "code": "FARFROMO",
+      "name": "Far from origin",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:56:36"
     }
   ]
 }
