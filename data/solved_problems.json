@@ -1,5 +1,5 @@
 {
-  "total_solved": 543,
+  "total_solved": 547,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -543,7 +543,11 @@
     "MAXCAP",
     "MAXSCORE7",
     "EASYPERM",
-    "VALIDMIN"
+    "VALIDMIN",
+    "AVGOF3",
+    "BISHOPMV",
+    "REPEAT",
+    "EQCARDGAME"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -779,7 +783,8 @@
     "ARYAGRID",
     "FLOWERBUY",
     "CHOCEAT",
-    "EXPSTP"
+    "EXPSTP",
+    "EVENHATE"
   ],
   "history": [
     {
@@ -4579,6 +4584,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 13:17:16"
+    },
+    {
+      "code": "AVGOF3",
+      "name": "Average of Three",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 16:58:07"
+    },
+    {
+      "code": "BISHOPMV",
+      "name": "Bishop Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 16:59:44"
+    },
+    {
+      "code": "REPEAT",
+      "name": "Odd Repeat",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 17:01:48"
+    },
+    {
+      "code": "EQCARDGAME",
+      "name": "Equal Card Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 17:03:36"
     }
   ]
 }
