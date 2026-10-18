@@ -1,5 +1,5 @@
 {
-  "total_solved": 537,
+  "total_solved": 543,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -537,7 +537,13 @@
     "BALREV",
     "ELEVSTRS",
     "COUPON2",
-    "FOOTBALLTIES"
+    "FOOTBALLTIES",
+    "ANADSW",
+    "GYMDAY",
+    "MAXCAP",
+    "MAXSCORE7",
+    "EASYPERM",
+    "VALIDMIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4531,6 +4537,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 09:14:08"
+    },
+    {
+      "code": "ANADSW",
+      "name": "Anti Adjacent Swaps",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-18 13:10:32"
+    },
+    {
+      "code": "GYMDAY",
+      "name": "International Gym Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:11:56"
+    },
+    {
+      "code": "MAXCAP",
+      "name": "Maximum Capacity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:13:07"
+    },
+    {
+      "code": "MAXSCORE7",
+      "name": "Maximum Score ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:14:39"
+    },
+    {
+      "code": "EASYPERM",
+      "name": "Easy Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:15:49"
+    },
+    {
+      "code": "VALIDMIN",
+      "name": "Valid Minimum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 13:17:16"
     }
   ]
 }
