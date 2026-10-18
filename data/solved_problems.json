@@ -1,5 +1,5 @@
 {
-  "total_solved": 547,
+  "total_solved": 551,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -547,7 +547,11 @@
     "AVGOF3",
     "BISHOPMV",
     "REPEAT",
-    "EQCARDGAME"
+    "EQCARDGAME",
+    "YOGACLASS",
+    "CVDRUN",
+    "ORDDIST",
+    "DECODEIT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4612,6 +4616,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 17:03:36"
+    },
+    {
+      "code": "YOGACLASS",
+      "name": "Yoga Class",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:42:56"
+    },
+    {
+      "code": "CVDRUN",
+      "name": "Covid Run",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:44:41"
+    },
+    {
+      "code": "ORDDIST",
+      "name": "Ordered Distances",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:46:26"
+    },
+    {
+      "code": "DECODEIT",
+      "name": "Encoded String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:48:08"
     }
   ]
 }
