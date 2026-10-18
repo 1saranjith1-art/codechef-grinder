@@ -1,5 +1,5 @@
 {
-  "total_solved": 531,
+  "total_solved": 537,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -531,7 +531,13 @@
     "CHESS_PAIR",
     "TWODIFFPALIN",
     "PIZZAPARTY",
-    "GCEA"
+    "GCEA",
+    "MAKESUB",
+    "CHANGE_PLZ",
+    "BALREV",
+    "ELEVSTRS",
+    "COUPON2",
+    "FOOTBALLTIES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4483,6 +4489,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 19:48:43"
+    },
+    {
+      "code": "MAKESUB",
+      "name": "Make Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:07:43"
+    },
+    {
+      "code": "CHANGE_PLZ",
+      "name": "Change Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:09:24"
+    },
+    {
+      "code": "BALREV",
+      "name": "Balanced Reversals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:10:29"
+    },
+    {
+      "code": "ELEVSTRS",
+      "name": "From heaven to earth",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:12:10"
+    },
+    {
+      "code": "COUPON2",
+      "name": "Chef and Coupon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:13:04"
+    },
+    {
+      "code": "FOOTBALLTIES",
+      "name": "Football Ties",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:14:08"
     }
   ]
 }
