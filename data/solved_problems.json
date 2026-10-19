@@ -1,5 +1,5 @@
 {
-  "total_solved": 556,
+  "total_solved": 560,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -556,7 +556,11 @@
     "NONADJFLIP",
     "SWMA",
     "MAKEPERM",
-    "ADAKING"
+    "ADAKING",
+    "MUL123",
+    "PLACE0110",
+    "COMM3",
+    "EVENM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -799,7 +803,8 @@
     "STFOOD",
     "RRCOPY",
     "RESELL",
-    "COOLSUB"
+    "COOLSUB",
+    "PERMOR"
   ],
   "history": [
     {
@@ -4690,6 +4695,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 10:24:31"
+    },
+    {
+      "code": "MUL123",
+      "name": "Make Multiple",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:31:12"
+    },
+    {
+      "code": "PLACE0110",
+      "name": "Placing 01 And 10",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:33:05"
+    },
+    {
+      "code": "COMM3",
+      "name": "Three Way Communications",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-19 19:40:00"
+    },
+    {
+      "code": "EVENM",
+      "name": "Even Matrix",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:41:58"
     }
   ]
 }
