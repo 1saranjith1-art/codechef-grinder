@@ -1,5 +1,5 @@
 {
-  "total_solved": 576,
+  "total_solved": 581,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -576,7 +576,12 @@
     "FARMLEGS",
     "MAX_BIN",
     "MULT3",
-    "INTMTCH"
+    "INTMTCH",
+    "CLIPLX",
+    "P2_175",
+    "LONGDRIVE",
+    "LOSTWKND",
+    "MOVHYPE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4851,6 +4856,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-20 14:26:58"
+    },
+    {
+      "code": "CLIPLX",
+      "name": "IPL and RCB",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:08:34"
+    },
+    {
+      "code": "P2_175",
+      "name": "Technex Tickets",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-20 18:12:39"
+    },
+    {
+      "code": "LONGDRIVE",
+      "name": "Long Drive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:14:08"
+    },
+    {
+      "code": "LOSTWKND",
+      "name": "Lost Weekends",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:16:41"
+    },
+    {
+      "code": "MOVHYPE",
+      "name": "Movie Hype",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:19:12"
     }
   ]
 }
