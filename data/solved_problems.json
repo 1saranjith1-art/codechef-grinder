@@ -1,5 +1,5 @@
 {
-  "total_solved": 581,
+  "total_solved": 583,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -581,7 +581,9 @@
     "P2_175",
     "LONGDRIVE",
     "LOSTWKND",
-    "MOVHYPE"
+    "MOVHYPE",
+    "CHSERVE",
+    "FINALSALE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4891,6 +4893,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 18:19:12"
+    },
+    {
+      "code": "CHSERVE",
+      "name": "Chef and Serves",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-20 20:58:43"
+    },
+    {
+      "code": "FINALSALE",
+      "name": "Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 21:00:08"
     }
   ]
 }
