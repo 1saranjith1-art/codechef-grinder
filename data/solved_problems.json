@@ -1,5 +1,5 @@
 {
-  "total_solved": 583,
+  "total_solved": 589,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -583,7 +583,13 @@
     "LOSTWKND",
     "MOVHYPE",
     "CHSERVE",
-    "FINALSALE"
+    "FINALSALE",
+    "STOCKMARKET",
+    "RECNDSTR",
+    "XOR_PAL",
+    "TEMPLELA",
+    "DOUBLE",
+    "AVDSQUARPLZ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4907,6 +4913,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 21:00:08"
+    },
+    {
+      "code": "STOCKMARKET",
+      "name": "Chef and Stocks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:41:36"
+    },
+    {
+      "code": "RECNDSTR",
+      "name": "Chef and String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:43:07"
+    },
+    {
+      "code": "XOR_PAL",
+      "name": "Xor Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:45:09"
+    },
+    {
+      "code": "TEMPLELA",
+      "name": "Temple Land",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:46:23"
+    },
+    {
+      "code": "DOUBLE",
+      "name": "Double Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:48:38"
+    },
+    {
+      "code": "AVDSQUARPLZ",
+      "name": "Avoid Squares Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 09:50:05"
     }
   ]
 }
