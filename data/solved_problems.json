@@ -847,7 +847,11 @@
     "WOLFDOWN",
     "CHPINTU",
     "RATIO2",
-    "RNGEODD"
+    "RNGEODD",
+    "OG",
+    "SECLAR",
+    "RATING",
+    "MINDAYSRET"
   ],
   "history": [
     {
