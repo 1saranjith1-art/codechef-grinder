@@ -1,5 +1,5 @@
 {
-  "total_solved": 596,
+  "total_solved": 598,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -596,7 +596,9 @@
     "BAKERY7",
     "ALTARR",
     "MINMXOR",
-    "CAN_REACH"
+    "CAN_REACH",
+    "MODEFREQ",
+    "ALEXNUMB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -841,7 +843,11 @@
     "RESELL",
     "COOLSUB",
     "PERMOR",
-    "NEARSQ"
+    "NEARSQ",
+    "WOLFDOWN",
+    "CHPINTU",
+    "RATIO2",
+    "RNGEODD"
   ],
   "history": [
     {
@@ -5012,6 +5018,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-22 09:46:29"
+    },
+    {
+      "code": "MODEFREQ",
+      "name": "Mode of Frequencies",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 14:35:22"
+    },
+    {
+      "code": "ALEXNUMB",
+      "name": "Magic Pairs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 14:40:01"
     }
   ]
 }
