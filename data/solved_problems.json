@@ -1,5 +1,5 @@
 {
-  "total_solved": 593,
+  "total_solved": 596,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -593,7 +593,10 @@
     "FIXEDPTS",
     "MONEYDOUBLE",
     "BALLOONS",
-    "BAKERY7"
+    "BAKERY7",
+    "ALTARR",
+    "MINMXOR",
+    "CAN_REACH"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -837,7 +840,8 @@
     "RRCOPY",
     "RESELL",
     "COOLSUB",
-    "PERMOR"
+    "PERMOR",
+    "NEARSQ"
   ],
   "history": [
     {
@@ -4987,6 +4991,27 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-21 14:38:34"
+    },
+    {
+      "code": "ALTARR",
+      "name": "Alternating Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 09:40:10"
+    },
+    {
+      "code": "MINMXOR",
+      "name": "Minimum XOR",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 09:41:28"
+    },
+    {
+      "code": "CAN_REACH",
+      "name": "Can_Reach",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 09:46:29"
     }
   ]
 }
