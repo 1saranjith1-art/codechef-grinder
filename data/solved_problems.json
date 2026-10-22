@@ -1,5 +1,5 @@
 {
-  "total_solved": 598,
+  "total_solved": 601,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -598,7 +598,10 @@
     "MINMXOR",
     "CAN_REACH",
     "MODEFREQ",
-    "ALEXNUMB"
+    "ALEXNUMB",
+    "CMIX",
+    "IPCCERT",
+    "MNMX"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -851,7 +854,8 @@
     "OG",
     "SECLAR",
     "RATING",
-    "MINDAYSRET"
+    "MINDAYSRET",
+    "DIVIDEMAKEEQ"
   ],
   "history": [
     {
@@ -5036,6 +5040,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-22 14:40:01"
+    },
+    {
+      "code": "CMIX",
+      "name": "Spell Splice",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 20:54:00"
+    },
+    {
+      "code": "IPCCERT",
+      "name": "Chef and IPC Certificates",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 20:55:05"
+    },
+    {
+      "code": "MNMX",
+      "name": "Minimum Maximum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 21:01:34"
     }
   ]
 }
