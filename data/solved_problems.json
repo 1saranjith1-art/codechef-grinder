@@ -1,5 +1,5 @@
 {
-  "total_solved": 601,
+  "total_solved": 605,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -601,7 +601,11 @@
     "ALEXNUMB",
     "CMIX",
     "IPCCERT",
-    "MNMX"
+    "MNMX",
+    "PATHPAR",
+    "SAVWATER",
+    "CHEFGRD",
+    "DANCEMOVES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5061,6 +5065,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-22 21:01:34"
+    },
+    {
+      "code": "PATHPAR",
+      "name": "Path Parity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 11:55:58"
+    },
+    {
+      "code": "SAVWATER",
+      "name": "A - Save Water Save Life",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-25 11:57:47"
+    },
+    {
+      "code": "CHEFGRD",
+      "name": "Akash and Grid",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-25 12:04:21"
+    },
+    {
+      "code": "DANCEMOVES",
+      "name": "Dance Moves",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-25 12:07:35"
     }
   ]
 }
