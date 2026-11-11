@@ -859,7 +859,11 @@
     "SECLAR",
     "RATING",
     "MINDAYSRET",
-    "DIVIDEMAKEEQ"
+    "DIVIDEMAKEEQ",
+    "MAKEMULTIPLE",
+    "MAX123",
+    "ONEFROMK",
+    "HOWMANYMAX"
   ],
   "history": [
     {
