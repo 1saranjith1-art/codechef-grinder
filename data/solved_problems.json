@@ -863,7 +863,13 @@
     "MAKEMULTIPLE",
     "MAX123",
     "ONEFROMK",
-    "HOWMANYMAX"
+    "HOWMANYMAX",
+    "DIVIDE3",
+    "SWISHGAME",
+    "MORECOOK",
+    "KO_MON",
+    "VALTRI",
+    "PERFCONT"
   ],
   "history": [
     {
