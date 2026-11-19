@@ -1,5 +1,5 @@
 {
-  "total_solved": 762,
+  "total_solved": 766,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -762,7 +762,11 @@
     "HOSTELROOM",
     "REMOVEMUL",
     "DSACPR49",
-    "CHNUM"
+    "CHNUM",
+    "EVENSUMSUB",
+    "FOODRES",
+    "CONVEYOR",
+    "FIGBOT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6370,6 +6374,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-11 23:48:45"
+    },
+    {
+      "code": "EVENSUMSUB",
+      "name": "Even Sum Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 12:22:12"
+    },
+    {
+      "code": "FOODRES",
+      "name": "Food Resources",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-19 12:24:00"
+    },
+    {
+      "code": "CONVEYOR",
+      "name": "Conveyor Belt",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-19 12:26:39"
+    },
+    {
+      "code": "FIGBOT",
+      "name": "FightBots",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 12:29:24"
     }
   ]
 }
