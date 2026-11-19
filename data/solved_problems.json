@@ -1,5 +1,5 @@
 {
-  "total_solved": 770,
+  "total_solved": 773,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -770,7 +770,10 @@
     "SUMPOS",
     "CARRANGE",
     "CHEFING",
-    "ELECTION1"
+    "ELECTION1",
+    "RBLT",
+    "BORROWBOOK",
+    "DEPCHEF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1045,7 +1048,8 @@
     "ANKTRAIN",
     "UWCOI21A",
     "P3BAR",
-    "CO92JUDG"
+    "CO92JUDG",
+    "ANDOR"
   ],
   "history": [
     {
@@ -6434,6 +6438,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-19 14:01:46"
+    },
+    {
+      "code": "RBLT",
+      "name": "Balanced Lighting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 14:16:43"
+    },
+    {
+      "code": "BORROWBOOK",
+      "name": "Chefland Library",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 14:24:01"
+    },
+    {
+      "code": "DEPCHEF",
+      "name": "Deputy Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 14:25:30"
     }
   ]
 }
