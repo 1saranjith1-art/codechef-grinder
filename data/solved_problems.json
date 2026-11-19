@@ -1,5 +1,5 @@
 {
-  "total_solved": 766,
+  "total_solved": 770,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -766,7 +766,11 @@
     "EVENSUMSUB",
     "FOODRES",
     "CONVEYOR",
-    "FIGBOT"
+    "FIGBOT",
+    "SUMPOS",
+    "CARRANGE",
+    "CHEFING",
+    "ELECTION1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6402,6 +6406,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 12:29:24"
+    },
+    {
+      "code": "SUMPOS",
+      "name": "Pair Me",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 13:53:37"
+    },
+    {
+      "code": "CARRANGE",
+      "name": "Car Range",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 13:55:28"
+    },
+    {
+      "code": "CHEFING",
+      "name": "Chef and Secret Ingredients",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-19 13:58:35"
+    },
+    {
+      "code": "ELECTION1",
+      "name": "Election",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-19 14:01:46"
     }
   ]
 }
