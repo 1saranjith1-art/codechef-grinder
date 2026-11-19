@@ -1,5 +1,5 @@
 {
-  "total_solved": 773,
+  "total_solved": 777,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -773,7 +773,11 @@
     "ELECTION1",
     "RBLT",
     "BORROWBOOK",
-    "DEPCHEF"
+    "DEPCHEF",
+    "BUDGET25",
+    "ACMDT",
+    "FINALSUM",
+    "DISPAL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1049,7 +1053,8 @@
     "UWCOI21A",
     "P3BAR",
     "CO92JUDG",
-    "ANDOR"
+    "ANDOR",
+    "CRZBISHOP"
   ],
   "history": [
     {
@@ -6459,6 +6464,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 14:25:30"
+    },
+    {
+      "code": "BUDGET25",
+      "name": "Budget Allotment",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 19:06:17"
+    },
+    {
+      "code": "ACMDT",
+      "name": "Accommodation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 19:13:29"
+    },
+    {
+      "code": "FINALSUM",
+      "name": "Final Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 19:15:31"
+    },
+    {
+      "code": "DISPAL",
+      "name": "Distinct Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 19:16:39"
     }
   ]
 }
