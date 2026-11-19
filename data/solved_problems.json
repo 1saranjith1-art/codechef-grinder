@@ -1,5 +1,5 @@
 {
-  "total_solved": 777,
+  "total_solved": 781,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -777,7 +777,11 @@
     "BUDGET25",
     "ACMDT",
     "FINALSUM",
-    "DISPAL"
+    "DISPAL",
+    "DISTOPPSUMS",
+    "STRNO",
+    "LOSELESS",
+    "MATDIF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1054,7 +1058,8 @@
     "P3BAR",
     "CO92JUDG",
     "ANDOR",
-    "CRZBISHOP"
+    "CRZBISHOP",
+    "CHRISCANDY"
   ],
   "history": [
     {
@@ -6492,6 +6497,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-19 19:16:39"
+    },
+    {
+      "code": "DISTOPPSUMS",
+      "name": "Distinct Opposite Sums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 21:49:41"
+    },
+    {
+      "code": "STRNO",
+      "name": "Strange Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 21:50:41"
+    },
+    {
+      "code": "LOSELESS",
+      "name": "Lose Less",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 21:51:50"
+    },
+    {
+      "code": "MATDIF",
+      "name": "Difference Matrix",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-19 21:55:11"
     }
   ]
 }
