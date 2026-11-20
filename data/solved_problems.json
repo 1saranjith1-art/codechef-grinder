@@ -1,5 +1,5 @@
 {
-  "total_solved": 793,
+  "total_solved": 797,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -793,7 +793,11 @@
     "MXALT",
     "BINARYSUM",
     "LARGSMALL",
-    "PLUS2MINUS1"
+    "PLUS2MINUS1",
+    "PRINTINGBIN",
+    "SMILEY",
+    "CHEFIZZA",
+    "MAKEPAL2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6621,6 +6625,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 18:05:47"
+    },
+    {
+      "code": "PRINTINGBIN",
+      "name": "Printing Binary Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 21:34:17"
+    },
+    {
+      "code": "SMILEY",
+      "name": "Schrodinger Smiley",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-20 21:35:58"
+    },
+    {
+      "code": "CHEFIZZA",
+      "name": "Chef loves Pizza Chef loves halfs",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-20 21:38:28"
+    },
+    {
+      "code": "MAKEPAL2",
+      "name": "Make Palindrome 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 21:39:28"
     }
   ]
 }
