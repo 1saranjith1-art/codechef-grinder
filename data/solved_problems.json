@@ -1,5 +1,5 @@
 {
-  "total_solved": 797,
+  "total_solved": 802,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -797,7 +797,12 @@
     "PRINTINGBIN",
     "SMILEY",
     "CHEFIZZA",
-    "MAKEPAL2"
+    "MAKEPAL2",
+    "INFERNO",
+    "FRIMEET",
+    "POSPROD",
+    "BUYING2",
+    "FIRSTGEO"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6653,6 +6658,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 21:39:28"
+    },
+    {
+      "code": "INFERNO",
+      "name": "Infernos",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:25:02"
+    },
+    {
+      "code": "FRIMEET",
+      "name": "Friends Meetup",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:26:11"
+    },
+    {
+      "code": "POSPROD",
+      "name": "Positive Products",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:27:45"
+    },
+    {
+      "code": "BUYING2",
+      "name": "Buying Sweets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:28:55"
+    },
+    {
+      "code": "FIRSTGEO",
+      "name": "My First Geometry Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 23:30:05"
     }
   ]
 }
