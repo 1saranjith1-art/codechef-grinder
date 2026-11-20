@@ -1,5 +1,5 @@
 {
-  "total_solved": 787,
+  "total_solved": 793,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -787,7 +787,13 @@
     "FALSNUM",
     "MARBLES",
     "NOTDIVISIBLE",
-    "DIAGMOVE"
+    "DIAGMOVE",
+    "FILLGRID",
+    "EXSHAKE",
+    "MXALT",
+    "BINARYSUM",
+    "LARGSMALL",
+    "PLUS2MINUS1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6573,6 +6579,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 13:45:07"
+    },
+    {
+      "code": "FILLGRID",
+      "name": "The Grid Fill Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 17:42:13"
+    },
+    {
+      "code": "EXSHAKE",
+      "name": "Exun Handshake",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 17:58:03"
+    },
+    {
+      "code": "MXALT",
+      "name": "Maximum Alternating Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 17:59:45"
+    },
+    {
+      "code": "BINARYSUM",
+      "name": "Binary Sum",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-20 18:02:27"
+    },
+    {
+      "code": "LARGSMALL",
+      "name": "Larger Smaller",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 18:04:01"
+    },
+    {
+      "code": "PLUS2MINUS1",
+      "name": "Plus 2 or Minus 1",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-20 18:05:47"
     }
   ]
 }
