@@ -1,5 +1,5 @@
 {
-  "total_solved": 805,
+  "total_solved": 811,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -805,7 +805,13 @@
     "FIRSTGEO",
     "LIFTME",
     "NODESDIST",
-    "NO4S"
+    "NO4S",
+    "PRODUCT",
+    "CHFTIRED",
+    "P4149",
+    "SIGNMOVE",
+    "BIGSALE",
+    "RYCARDS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6718,6 +6724,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 13:14:35"
+    },
+    {
+      "code": "PRODUCT",
+      "name": "The product mystery",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:45:04"
+    },
+    {
+      "code": "CHFTIRED",
+      "name": "Chef and Difficult Contests",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 16:47:17"
+    },
+    {
+      "code": "P4149",
+      "name": "Maximise Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:48:55"
+    },
+    {
+      "code": "SIGNMOVE",
+      "name": "Sign Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:50:03"
+    },
+    {
+      "code": "BIGSALE",
+      "name": "A Big Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 16:51:24"
+    },
+    {
+      "code": "RYCARDS",
+      "name": "Red Yellow Cards",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 16:58:03"
     }
   ]
 }
