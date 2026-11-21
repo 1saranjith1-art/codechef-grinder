@@ -1,5 +1,5 @@
 {
-  "total_solved": 802,
+  "total_solved": 805,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -802,7 +802,10 @@
     "FRIMEET",
     "POSPROD",
     "BUYING2",
-    "FIRSTGEO"
+    "FIRSTGEO",
+    "LIFTME",
+    "NODESDIST",
+    "NO4S"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1080,7 +1083,8 @@
     "CO92JUDG",
     "ANDOR",
     "CRZBISHOP",
-    "CHRISCANDY"
+    "CHRISCANDY",
+    "STUDVOTE"
   ],
   "history": [
     {
@@ -6693,6 +6697,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-20 23:30:05"
+    },
+    {
+      "code": "LIFTME",
+      "name": "Lift Requests",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 13:09:28"
+    },
+    {
+      "code": "NODESDIST",
+      "name": "Distance between two nodes",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 13:11:53"
+    },
+    {
+      "code": "NO4S",
+      "name": "No 4 Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 13:14:35"
     }
   ]
 }
