@@ -1,5 +1,5 @@
 {
-  "total_solved": 811,
+  "total_solved": 816,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -811,7 +811,12 @@
     "P4149",
     "SIGNMOVE",
     "BIGSALE",
-    "RYCARDS"
+    "RYCARDS",
+    "CAPPLE",
+    "P2235",
+    "PERMCREATE",
+    "MAXREM",
+    "SEDARR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1090,7 +1095,8 @@
     "ANDOR",
     "CRZBISHOP",
     "CHRISCANDY",
-    "STUDVOTE"
+    "STUDVOTE",
+    "SPLITIT"
   ],
   "history": [
     {
@@ -6766,6 +6772,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-11-21 16:58:03"
+    },
+    {
+      "code": "CAPPLE",
+      "name": "Chef and Apple Trees",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 20:16:24"
+    },
+    {
+      "code": "P2235",
+      "name": "Recover Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:17:53"
+    },
+    {
+      "code": "PERMCREATE",
+      "name": "Permutation Creation",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-21 20:19:54"
+    },
+    {
+      "code": "MAXREM",
+      "name": "Maximum Remaining",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:20:56"
+    },
+    {
+      "code": "SEDARR",
+      "name": "Sed Sequences",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 20:22:37"
     }
   ]
 }
