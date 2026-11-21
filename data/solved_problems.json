@@ -1,5 +1,5 @@
 {
-  "total_solved": 816,
+  "total_solved": 820,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -816,7 +816,11 @@
     "P2235",
     "PERMCREATE",
     "MAXREM",
-    "SEDARR"
+    "SEDARR",
+    "SORTPREF",
+    "ODDEVENDIV",
+    "DWNLD",
+    "COUNTAB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6807,6 +6811,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 20:22:37"
+    },
+    {
+      "code": "SORTPREF",
+      "name": "Sorting Prefixes",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-21 22:30:25"
+    },
+    {
+      "code": "ODDEVENDIV",
+      "name": "Check Odd Even Divisors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 22:32:25"
+    },
+    {
+      "code": "DWNLD",
+      "name": "Download file",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 22:33:15"
+    },
+    {
+      "code": "COUNTAB",
+      "name": "Counting Characters ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-21 22:35:05"
     }
   ]
 }
