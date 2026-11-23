@@ -1,5 +1,5 @@
 {
-  "total_solved": 821,
+  "total_solved": 822,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -821,7 +821,8 @@
     "ODDEVENDIV",
     "DWNLD",
     "COUNTAB",
-    "SKIPONE"
+    "SKIPONE",
+    "ROCPAPSCI"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1103,7 +1104,10 @@
     "STUDVOTE",
     "SPLITIT",
     "BBXJG01",
-    "NOFIX"
+    "NOFIX",
+    "NUMGAME",
+    "BILLRD",
+    "EVENGAME"
   ],
   "history": [
     {
@@ -6849,6 +6853,13 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-11-23 19:08:22"
+    },
+    {
+      "code": "ROCPAPSCI",
+      "name": "Rock Paper Scissors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-23 20:09:29"
     }
   ]
 }
