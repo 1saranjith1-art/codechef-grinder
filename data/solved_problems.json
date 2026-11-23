@@ -1,5 +1,5 @@
 {
-  "total_solved": 820,
+  "total_solved": 821,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -820,7 +820,8 @@
     "SORTPREF",
     "ODDEVENDIV",
     "DWNLD",
-    "COUNTAB"
+    "COUNTAB",
+    "SKIPONE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1100,7 +1101,9 @@
     "CRZBISHOP",
     "CHRISCANDY",
     "STUDVOTE",
-    "SPLITIT"
+    "SPLITIT",
+    "BBXJG01",
+    "NOFIX"
   ],
   "history": [
     {
@@ -6839,6 +6842,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-21 22:35:05"
+    },
+    {
+      "code": "SKIPONE",
+      "name": "Skip one",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-11-23 19:08:22"
     }
   ]
 }
