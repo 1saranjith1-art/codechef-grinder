@@ -1,5 +1,5 @@
 {
-  "total_solved": 828,
+  "total_solved": 832,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -828,7 +828,11 @@
     "CHEFDETE",
     "SPLITMAX",
     "DISCHAR",
-    "SUBSUM3"
+    "SUBSUM3",
+    "TWONMS",
+    "KNIGHT2",
+    "CHOCUT",
+    "LOSTSEQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1113,7 +1117,8 @@
     "NOFIX",
     "NUMGAME",
     "BILLRD",
-    "EVENGAME"
+    "EVENGAME",
+    "MTE"
   ],
   "history": [
     {
@@ -6908,6 +6913,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-24 07:54:15"
+    },
+    {
+      "code": "TWONMS",
+      "name": "Two Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 22:15:00"
+    },
+    {
+      "code": "KNIGHT2",
+      "name": "Journey of the Knight",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-24 22:18:19"
+    },
+    {
+      "code": "CHOCUT",
+      "name": "Chococut",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 22:20:20"
+    },
+    {
+      "code": "LOSTSEQ",
+      "name": "Careless Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 22:22:14"
     }
   ]
 }
