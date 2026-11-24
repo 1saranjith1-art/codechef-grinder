@@ -1,5 +1,5 @@
 {
-  "total_solved": 822,
+  "total_solved": 828,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -822,7 +822,13 @@
     "DWNLD",
     "COUNTAB",
     "SKIPONE",
-    "ROCPAPSCI"
+    "ROCPAPSCI",
+    "CARRCOL",
+    "BAKECAKE2",
+    "CHEFDETE",
+    "SPLITMAX",
+    "DISCHAR",
+    "SUBSUM3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -6860,6 +6866,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-23 20:09:29"
+    },
+    {
+      "code": "CARRCOL",
+      "name": "Carrot Collection",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 07:45:26"
+    },
+    {
+      "code": "BAKECAKE2",
+      "name": "Chef Bakes Cake 2",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-11-24 07:48:25"
+    },
+    {
+      "code": "CHEFDETE",
+      "name": "Chef-Detective",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 07:50:12"
+    },
+    {
+      "code": "SPLITMAX",
+      "name": "Split and Maximize",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 07:51:30"
+    },
+    {
+      "code": "DISCHAR",
+      "name": "Distinct Characters Subsequence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 07:52:45"
+    },
+    {
+      "code": "SUBSUM3",
+      "name": "Subset Sum 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-24 07:54:15"
     }
   ]
 }
